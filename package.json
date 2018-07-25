@@ -1,0 +1,24 @@
+{
+  "name": "codai",
+  "version": "0.0.1",
+  "description": "Bot that code for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loic-carbonne/codai.git"
+  },
+  "keywords": [
+    "codai",
+    "bot",
+    "ai"
+  ],
+  "author": "Loïc Carbonne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loic-carbonne/codai/issues"
+  },
+  "homepage": "https://github.com/loic-carbonne/codai#readme"
+}
